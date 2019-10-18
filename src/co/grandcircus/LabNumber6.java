@@ -1,3 +1,5 @@
+// @author Brandon Bath
+
 package co.grandcircus;
 
 import java.util.Scanner;
